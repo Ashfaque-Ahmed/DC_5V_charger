@@ -42,13 +42,6 @@ This repository contains the design and implementation details of a 5V DC charge
 4. **Status Indication**  
    - An LED connected via a 220kΩ resistor indicates the charger is powered and operational.
 
-
-## Circuit Diagram
-
-Include a simple diagram here (or upload it as an image file in your repository and link to it).
-
----
-
 ## How to Use
 
 1. Connect the AC input to the transformer.  
